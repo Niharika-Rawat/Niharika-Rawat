@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Niharika-Rawat
-- 😄 Pronouns: she/her
 - 👀 I’m interested in Data Analytics.
 - 💞️ I know basics of Python, SQL & Excel.
 - 🌱 I’m currently learning Power BI, different libraries of Python and advanced Excel.
 - 🎨 I am good with Canva & know basics of Figma.
 - 📫 Reach me via my linkedin mentioned in my profile.
+- ✨ Current Vice President of the Women's Cell BVUCOEP 2024-25, Human Resource Head for the blockchain & web3 club of our college - Blotic.
   
 
 <!---
