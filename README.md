@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @Niharika-Rawat
-- 👀 I’m interested in UI/UX and Graphic Designing.
-- 🌱 I’m currently learning Figma Basics.
-- 💞️ I’m looking to collaborate on website and logo designing projects.
-- 📫 Reach me via my linkedin mentioned in my profile.
 - 😄 Pronouns: she/her
+- 👀 I’m interested in Data Analytics.
+- 💞️ I know basics of Python, SQL & Excel.
+- 🌱 I’m currently learning Power BI, different libraries of Python and advanced Excel.
+- 🎨 I am good with Canva & know basics of Figma.
+- 📫 Reach me via my linkedin mentioned in my profile.
+  
 
 <!---
 Niharika-Rawat/Niharika-Rawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
