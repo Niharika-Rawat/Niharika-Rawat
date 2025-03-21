@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Niharika-Rawat
+- 🎓 Pursuing my Bachelor's Degree in Computer Science & Business Systems.
 - 👀 I’m interested in Data Analytics.
 - 💞️ I know basics of Python, SQL & Excel.
 - 🌱 I’m currently learning Power BI, different libraries of Python and advanced Excel.
