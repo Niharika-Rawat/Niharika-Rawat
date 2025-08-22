@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning MongoDB & R.
 - 🎨 I am good with Canva & know basics of Figma.
 - 📫 Reach me via my [Linkedin](http://linkedin.com/in/niharika-rawat-9a1156256).
-- 👩🏻‍💻 Data Science Intern at To The New.
-- ✨ Ex-Vice President of the Women's Cell BVUCOEP 2024-25, Ex-Human Resource Head for the blockchain & web3 club of our college - Blotic.
+- 👩🏻‍💻 Data Science Intern at [To The New](https://www.linkedin.com/company/tothenew/posts/?feedView=all).
+- ✨ Ex-Vice President of the [Women's Cell BVUCOEP 2024-25](https://www.linkedin.com/company/women-s-cell-bv-du-coep/?viewAsMember=true), Ex-Human Resource Head for the blockchain & web3 club of our college - [Blotic](https://www.linkedin.com/company/blotic/posts/?feedView=all).
   
 
 <!---
