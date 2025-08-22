@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Niharika-Rawat
+- 👋 Hi, I’m [@Niharika-Rawat]
 - 🎓 Pursuing my Bachelor's Degree in Computer Science & Business Systems.
 - 👀 I’m interested in Data Science.
 - 💞️ I know Tableau, Python, SQL, Excel.
